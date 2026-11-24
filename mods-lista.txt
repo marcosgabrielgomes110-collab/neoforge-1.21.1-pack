@@ -1,0 +1,193 @@
+neoforge-1.21.1 — Minecraft 1.21.1 / NeoForge 21.1.265 / Java 21
+
+[performance]
+  ModernFix 5.27.27+mc1.21.1  ->  modernfix-neoforge-5.27.27+mc1.21.1.jar
+  FerriteCore 7.0.3  ->  ferritecore-7.0.3-neoforge.jar
+  ImmediatelyFast 1.6.15+1.21.1  ->  ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar
+  Entity Culling 1.11.3  ->  entityculling-neoforge-1.11.3-mc1.21.1.jar
+  Dynamic FPS 3.11.4  ->  dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar
+  Embeddium 0.8.12+mc1.21.1  ->  sodium-neoforge-0.8.12+mc1.21.1.jar
+  Oculus -  ->  (NAO INSTALADO)
+  Chunky 1.4.23  ->  Chunky-NeoForge-1.4.23.jar
+
+[qol]
+  JEI 19.64.0.455  ->  jei-1.21.1-neoforge-19.64.0.455.jar
+  Jade 15.10.6  ->  Jade-1.21.1-NeoForge-15.10.6.jar
+  AppleSkin 3.0.9  ->  appleskin-neoforge-mc1.21-3.0.9.jar
+  Xaero's Minimap 26.6.0  ->  xaerominimap-neoforge-1.21.1-26.6.0.jar
+  Xaero's World Map 1.47.0  ->  xaeroworldmap-neoforge-1.21.1-1.47.0.jar
+  Zoomify 3.1.1  ->  betterzoom-neoforge-1.21.1-3.1.1.jar
+  Controlling 19.0.5  ->  Controlling-neoforge-1.21.1-19.0.5.jar
+  Shulker Box Tooltip 5.1.9+1.21.1  ->  shulkerboxtooltip-neoforge-5.1.9+1.21.1.jar
+  Enchantment Descriptions 21.1.11  ->  enchdesc-neoforge-1.21.1-21.1.11.jar
+  BetterF3 11.0.3  ->  BetterF3-11.0.3-NeoForge-1.21.1.jar
+  Inventory Profiles Next 2.2.5  ->  InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar
+  Inventory Essentials 21.1.20  ->  inventoryessentials-neoforge-1.21.1-21.1.20.jar
+  Waystones 21.1.46  ->  waystones-neoforge-1.21.1-21.1.46.jar
+  Open World Inventory 1.2.1  ->  openworldinventory-1.2.1-neoforge-1.21.1.jar
+  Inventory Overhaul 0.0.1-alpha  ->  (NAO INSTALADO)
+  Enhanced QoL 1.0  ->  EnhancedQoL-neoforge-1.0.jar
+  Back with the Bundle 1.0.0  ->  backwiththebundle-1.0.0.jar
+  Nature's Compass 1.21.1-3.4.0-neoforge  ->  NaturesCompass-1.21.1-3.4.0-neoforge.jar
+  Sophisticated Backpacks 3.26.20  ->  sophisticatedbackpacks-1.21.1-3.26.20.2244.jar
+  Carry On 2.2.6  ->  carryon-neoforge-1.21.1-2.2.6.13.jar
+  Mouse Tweaks 2.26.1  ->  MouseTweaks-neoforge-mc1.21-2.26.1.jar
+  Easy Anvils 21.1.0  ->  EasyAnvils-v21.1.0-1.21.1-NeoForge.jar
+  Easy Magic 21.1.4  ->  EasyMagic-v21.1.4-1.21.1-NeoForge.jar
+  Mob Catcher 1  ->  mobcatcher-neoforge-1.21.1-1.jar
+  Clean and Clear Glass 1.21.1  ->  cleanandclearglass-neoforge-mc1.21.1.jar
+  Flight Rings 2.0.0  ->  FlightRings-neoforge-2.0.0.jar
+  Uncraft Everything 2.1.6+1.21.1-neoforge  ->  uncrafteverything-2.1.6+1.21.1-neoforge.jar
+
+[mining]
+  FallingTree 1.21.1.11  ->  FallingTree-1.21.1-1.21.1.11.jar
+  Veinminer 3.1.3+mc1.21.1  ->  Veinminer-neoforge-3.1.3+mc1.21.1.jar
+  Simple Excavators 1.0.5  ->  simpleexcavators-neoforge-1.21.1-1.0.5.jar
+  Only Hammers 1.21.1-1.0.4  ->  onlyhammers-1.21.1-1.0.4.jar
+  Advanced XRay 21.0.0  ->  advanced-xray-neoforge-21.0.0.jar
+
+[storage]
+  Sophisticated Storage 1.6.16  ->  sophisticatedstorage-1.21.1-1.6.16.2222.jar
+  Iron Furnaces 4.3.2  ->  ironfurnaces-neoforge-1.21.1-4.3.2.jar
+  Create 6.0.10  ->  create-1.21.1-6.0.10.jar
+  Pipez 1.21.1-1.2.31  ->  pipez-neoforge-1.21.1-1.2.31.jar
+  Tom's Simple Storage 2.4.2  ->  toms_storage-1.21-2.4.2.jar
+  Oritech 1.2.13  ->  oritech-neoforge-1.21.1-1.2.13.jar
+  ProjectE 1.1.0  ->  ProjectE-1.21.1-PE1.1.0.jar
+
+[logistica]
+  Classic Pipes 1.1.7  ->  classicpipes-neoforge-1.21.1-1.1.7.jar
+  Better Auto Crafter 1.9-neoforge  ->  better_auto_crafter-1.9-neoforge.jar
+  Entangled 1.3.21  ->  entangled-1.3.21-neoforge-mc1.21.jar
+  TeleCommod 0.6.6  ->  telecommod-0.6.6.jar
+  Persistent Fake Players 1.0.6  ->  Persistent-Fake-Players-NeoForge-1.21.1-1.0.6.jar
+
+[organizacao]
+  Sophisticated Sorter 1.1.1  ->  SophisticatedSorter-neoforge-1.21.1-1.1.1.jar
+
+[agricultura]
+  Mystical Agriculture 8.0.29  ->  MysticalAgriculture-1.21.1-8.0.29.jar
+  Botany Pots 21.1.44  ->  botanypots-neoforge-1.21.1-21.1.44.jar
+  Botany Pots - Mystical Agriculture Compat 21.1.12  ->  botanypotsmystical-neoforge-1.21.1-21.1.12.jar
+  Item Collectors 1.1.10  ->  itemcollectors-1.1.10-neoforge-mc1.21.jar
+  Brecher's Cultivation Chambers 1.4.7  ->  brecher_cultivation-1.4.7-1.21.1_neoforge.jar
+  Croptopia 4.2.4  ->  croptopia-neoforge-1.21.1-4.2.4.jar
+
+[tecnologia]
+  Mekanism 10.7.19.85  ->  Mekanism-1.21.1-10.7.19.85.jar
+  Create: Enhanced Schematicannon 1.0.4  ->  create_enhanced_schematicannon-1.0.4.jar
+  Source Block 1.2.0  ->  sourceblock-1.2.0-neoforge+mc1.21.1.jar
+  Mi Elevador 1.0.0  ->  elevadormod-1.0.0.jar
+  Thut's Elevators 10.0.1  ->  thuttech-1.21.1-10.0.1.jar  (requer ThutCore)
+  AutoEMC 2.1.0  ->  autoemc-2.1.0.jar
+  Immersive Engineering 12.4.2-194  ->  ImmersiveEngineering-1.21.1-12.4.2-194.jar
+  Powah! 6.2.10  ->  Powah-6.2.10.jar
+  PneumaticCraft: Repressurized 8.2.24  ->  pneumaticcraft-repressurized-8.2.24+mc1.21.1.jar
+  Applied Energistics 2 19.2.20  ->  appliedenergistics2-19.2.20.jar
+  Logistics: Automation 0.8.13  ->  logistics-0.8.13-mc1.21.1.neoforge.jar
+  Mystical Automation 1.0.9  ->  MysticalAutomation-1.21.1-1.0.9.jar
+  Create: Enchantment Industry 2.4.2  ->  create-enchantment-industry-2.4.2.jar
+  SecurityCraft 1.10.2.1  ->  securitycraft-1.21.1-1.10.2.1.jar
+  OpenComputers: Modernized -  ->  (NAO INSTALADO)
+
+[decoracao]
+  Supplementaries 4.1.3  ->  supplementaries-1.21.1-4.1.3-neoforge.jar
+  Refurbished Furniture 1.0.22  ->  refurbished_furniture-neoforge-1.21.1-1.0.22.jar
+  Chipped 4.0.2  ->  chipped-neoforge-1.21.1-4.0.2.jar
+  Quark 4.1-488  ->  Quark-4.1-488.jar
+
+[construcao]
+  Carpenter's Blocks 0.1.2  ->  carpenterblocksrevived-neoforge-0.1.2.jar
+  Craftable Starter Bases 1.0.3  ->  craftable_bases-1.0.3-neoforge-1.21.1.jar
+  Prefab 1.0.9  ->  prefab-neoforge-1.0.9.jar
+  Prefab Custom Addon 3.0.0  ->  prefab-custom-addon-3.0.0.jar  (patch local: crash do seletor de regiao + tag custom_blueprint)
+  Construction Wand - KOTS 2.16.13  ->  constructionwand-kots-1.21.1-2.16.13.jar
+  ElevatorMod 1.21.1-1.11.4  ->  elevatorid-neoforge-1.21.1-1.11.4.jar
+
+[transportes]
+  Small Ships 2.0.2  ->  smallships-neoforge-1.21.1-2.0.2.jar
+  Create Aeronautics 1.3.2  ->  create-aeronautics-bundled-1.21.1-1.3.2.jar
+
+[dimensoes]
+  The Aether 1.5.10  ->  aether-1.21.1-1.5.10-neoforge.jar
+
+[world]
+  Terralith 2.6.2  ->  Terralith_1.21.1_v2.6.2_Neoforge.jar
+  Tectonic 3.0.28  ->  tectonic-3.0.28-neoforge-21.1.jar
+
+[animals]
+  Animal Husbandry 0.7.0  ->  AnimalHusbandry-neoforge-0.7.0.jar
+  Naturalist 2.0.7  ->  naturalist-2.0.7-neoforge-1.21.1.jar
+  Smart Feeding Troughs 1.2.0  ->  smartfeedingtroughs-neoforge-1.21.1-1.2.0.jar
+  Alex's Mobs Continued 2.3.0  ->  alexsmobs-2.3.0-neoforge+1.21.1.jar
+
+[ores]
+  MoreVanillaTools 21.1.3  ->  MoreVanillaTools-21.1.3.jar
+  Temperforge 1.0.0  ->  temperforge-neoforge-1.21.1-1.0.0.jar
+  Immersive Ores 1.21.1-1.2.1  ->  immersiveores-1.21.1-1.2.1.jar
+
+[structures]
+  When Dungeons Arise 2.1.68  ->  DungeonsArise-1.21.1-2.1.68-release.jar
+  Towns and Towers 1.13.11  ->  t_and_t-fabric-neoforge-1.13.11.jar
+  Moog's Bountiful Structures 1.0.10  ->  MoogsBountifulStructures-1.21-1.0.10.jar
+  Moog's End Structures 2.1.1  ->  MoogsEndStructures-universal-1.21-2.1.1.jar
+  Piglet Structures 1.456  ->  Piglet_Structures_1.21.1(ver.1.456).jar
+  YUNG's Better Dungeons 5.1.4  ->  YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar
+
+[combat]
+  Villager Overhaul 3.10.17.16  ->  villageroverhaul-neoforge-1.21.1-3.10.17.16.jar
+  Overpowered Legendary Weapons 1.0.0  ->  overpowered_legendary_weapons_reimagined-neoforge-1.21.1.jar
+  Simply Swords 1.70.2-1.21.1  ->  simplyswords-neoforge-1.70.2-1.21.1.jar
+  Illager Invasion 21.1.6  ->  IllagerInvasion-v21.1.6-1.21.1-NeoForge.jar
+
+[superheroes]
+  MobMorph 1.0.0  ->  mobmorph-1.0.0.jar
+  Marvel Legacy 1.1.1-alpha  ->  marvellegacy-1.1.1-alpha.jar
+
+[recipes]
+  CraftTweaker 21.0.38  ->  CraftTweaker-neoforge-1.21.1-21.0.38.jar
+
+[dependencias]
+  architectury 13.0.11  ->  architectury-13.0.11-neoforge.jar
+  athena 4.0.6  ->  athena-neoforge-1.21.1-4.0.6.jar
+  balm 21.0.67  ->  balm-neoforge-1.21.1-21.0.67.jar
+  biomesoplenty 21.1.0.14  ->  BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar
+  bookshelf 21.1.81  ->  bookshelf-neoforge-1.21.1-21.1.81.jar
+  cloth_config 15.0.140  ->  cloth-config-15.0.140-neoforge.jar
+  codxlib 1.6.1  ->  codxlib-1.6.1-neoforge+1.21.1.jar
+  create-dragons-plus 1.11.9  ->  CreateDragonsPlus-1.11.9.jar
+  cristellib 3.1.7  ->  cristellib-neoforge-1.21.1-3.1.7.jar
+  cucumber 8.0.16  ->  Cucumber-1.21.1-8.0.16.jar
+  curios 9.5.1+1.21.1  ->  curios-neoforge-9.5.1+1.21.1.jar
+  dirigo 1.3.0  ->  dirigo-neoforge-1.21.1-1.3.0.jar
+  epherolib 1.2.0  ->  EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar
+  ezactions 2.0.3.5  ->  ezactions-neoforge-1.21.1-2.0.3.5.jar
+  ezemeraldpouch 1.0.3.3  ->  ezemeraldpouch-neoforge-1.21.1-1.0.3.3.jar
+  framework 0.13.11  ->  framework-neoforge-1.21.1-0.13.11.jar
+  fzzy_config 0.7.7+fix1+1.21+neoforge  ->  fzzy_config-0.7.7+fix1+1.21+neoforge.jar
+  geckolib 4.9.3  ->  geckolib-neoforge-1.21.1-4.9.3.jar
+  glitchcore 2.1.0.2  ->  GlitchCore-neoforge-1.21.1-2.1.0.2.jar
+  guideme 21.1.22  ->  guideme-21.1.22.jar
+  kotlinforforge 5.12.0  ->  kotlinforforge-5.12.0-all.jar
+  ldlib 2.2.46.a  ->  ldlib2-neoforge-1.21.1-2.2.46.a-all.jar
+  libipn 6.6.3  ->  libIPN-neoforge-1.21.1-6.6.3.jar
+  libx 1.21.1-6.0.9  ->  LibX-1.21.1-6.0.9.jar
+  lithostitched 1.8.1  ->  lithostitched-1.8.1-neoforge-21.1.jar
+  moogs_structures 3.4.2  ->  MoogsStructureLib-neoforge-1.21.1-3.4.2.jar
+  moonlight 3.8.3  ->  moonlight-1.21.1-3.8.3-neoforge.jar
+  owo-lib 0.12.15.6-beta.1  ->  owo-lib-neoforge-0.12.15.6-beta.1+1.21.jar
+  playeranimator 2.0.4+1.21.1  ->  player-animation-lib-forge-2.0.4+1.21.1.jar
+  prickle 21.1.11  ->  prickle-neoforge-1.21.1-21.1.11.jar
+  puzzleslib 21.1.66  ->  puzzleslib-v21.1.66-mc1.21.1+neoforge.jar
+  resourcefullib 3.0.12  ->  resourcefullib-neoforge-1.21-3.0.12.jar
+  rpgtimeline 2.0.4.1  ->  rpgtimeline-neoforge-1.21-2.0.4.1.jar
+  sable 2.0.6  ->  sable-neoforge-1.21.1-2.0.6.jar
+  searchables 1.0.2  ->  Searchables-neoforge-1.21.1-1.0.2.jar
+  simplytooltips 0.1.5  ->  SimplyTooltips-neoforge-0.1.5.jar
+  sophisticatedcore 1.5.31  ->  sophisticatedcore-1.21.1-1.5.31.2460.jar
+  supermartijn642configlib 1.1.8  ->  supermartijn642configlib-1.1.8-neoforge-mc1.21.jar
+  supermartijn642corelib 1.1.26+a  ->  supermartijn642corelib-1.1.26a-neoforge-mc1.21.jar
+  terrablender 4.1.0.8  ->  TerraBlender-neoforge-1.21.1-4.1.0.8.jar
+  yungs-api 5.1.9  ->  YungsApi-1.21.1-NeoForge-5.1.9.jar
+  zeta 1.1-40  ->  Zeta-1.1-40.jar
+  ProjectE Integration 8.4.0  ->  ProjectE_Integration-1.21.1-8.4.0.jar
